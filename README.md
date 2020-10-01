@@ -1,1 +1,3 @@
-# Vanilla_Javascript_Projects
+# Vanilla_Javascript_Project
+
+This is one of my first api project using only javascript
